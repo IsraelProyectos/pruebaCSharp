@@ -12,7 +12,7 @@ namespace WindowsFormsApplication1
 {
     public partial class Form1 : Form
     {
-		//hola
+		//holas
         public Form1()
         {
             InitializeComponent();
