@@ -7,3 +7,12 @@ C:\Users\Israel\Documents\Visual Studio 2013\Projects\pruebaCSharp\pruebaCSharp\
 C:\Users\Israel\Documents\Visual Studio 2013\Projects\pruebaCSharp\pruebaCSharp\obj\Debug\pruebaCSharp.csproj.GenerateResource.Cache
 C:\Users\Israel\Documents\Visual Studio 2013\Projects\pruebaCSharp\pruebaCSharp\obj\Debug\pruebaCSharp.exe
 C:\Users\Israel\Documents\Visual Studio 2013\Projects\pruebaCSharp\pruebaCSharp\obj\Debug\pruebaCSharp.pdb
+C:\Users\Israel\Source\Repos\pruebaCSharp\pruebaCSharp\bin\Debug\pruebaCSharp.exe.config
+C:\Users\Israel\Source\Repos\pruebaCSharp\pruebaCSharp\obj\Debug\pruebaCSharp.exe
+C:\Users\Israel\Source\Repos\pruebaCSharp\pruebaCSharp\obj\Debug\pruebaCSharp.pdb
+C:\Users\Israel\Source\Repos\pruebaCSharp\pruebaCSharp\bin\Debug\pruebaCSharp.exe
+C:\Users\Israel\Source\Repos\pruebaCSharp\pruebaCSharp\bin\Debug\pruebaCSharp.pdb
+C:\Users\Israel\Source\Repos\pruebaCSharp\pruebaCSharp\obj\Debug\pruebaCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Israel\Source\Repos\pruebaCSharp\pruebaCSharp\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Israel\Source\Repos\pruebaCSharp\pruebaCSharp\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Israel\Source\Repos\pruebaCSharp\pruebaCSharp\obj\Debug\pruebaCSharp.csproj.GenerateResource.Cache
